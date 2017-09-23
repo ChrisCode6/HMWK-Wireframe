@@ -12,8 +12,6 @@ body {
 	width:100%;
 }
 
-
-
 header {
 	width: 90%;
 	border: 25px solid white;
@@ -63,8 +61,7 @@ aside{
 	float: right;
 	position:relative;
 	left: -40px;
-	top:-305px;
-
+	top:-275px;
 }
 
 article{
@@ -84,7 +81,7 @@ article{
 }
 
 h1,h2,h3{
-	width: 10%;
+	width: 40%;
 	border:10px solid white;
 	padding:10px;
 	margin:10px;
@@ -95,7 +92,7 @@ h1,h2,h3{
 	background-color:white;
 	position:relative;
 	top: 200px;
-	right:-425px;
+	right:-145px;
 }
 
 
@@ -103,7 +100,7 @@ p{
 	width: 35%;
 	height: 10%;
 	border:25px solid white;
-	padding:25px;
+	padding:10px;
 	margin:25px;
 	text-align:center;
 	font-family:Arial;
@@ -112,7 +109,6 @@ p{
 	position:relative;
 	top:150px;
 	left: 148px;
-
 }
 
 footer {
@@ -127,9 +123,17 @@ footer {
 	background-color:white;
 	clear:both;
 	position:relative;
-	bottom:30%;
+	bottom:25%;
 }	
+
+Pseudocode: Only thing left in the homework wireframe which I struggled with was the paragraph box in the section area. Struggled to figure out exact type of positioning needed in order to make it look like the final product shown. Couldn't quite figure out what exactly
+was causing the issue of not being able to overlap or overwrite the background for the article box. Believe it needed some sort of positioning maybe through position absolute in order to display the colored white background and text on top. Also working with the right
+px dimensions as well in order to make the boxes proportional to the section box to work with the article box, can inspect via Google Inspector ctl shift z in google chrome.
+
+
+
+
+
 
 
 </style>
-
