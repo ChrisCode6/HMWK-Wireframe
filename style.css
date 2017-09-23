@@ -1,0 +1,126 @@
+<style>
+
+body {
+	background-color: #777;
+	text-align: center;
+}
+
+body {
+	background-color: #777;
+	text-align: center;
+	height:100%;
+	width:100%;
+}
+
+
+
+header {
+	width: 90%;
+	border: 25px solid white;
+	padding: 25px;
+	margin:25px;
+	content: #ebebeb;
+	text-align: center;
+	font-family: Arial;
+	font-size: 18px;
+	background-color:white;
+}
+
+nav{
+	width: 90%;
+	border:25px solid white;
+	padding:25px;
+	margin:25px;
+	text-align:center;
+	font-family: Arial;
+	font-size: 18px;
+	background-color:white;
+}
+
+section{
+	height: 40%;
+	width: 50%;
+	border: 25px solid white;
+	padding:25px;
+	margin: 25px;
+	text-align:center;
+	font-family: Arial;
+	font-size: 18px;
+	background-color:white;
+	position:absolute;
+}
+
+aside{
+	width: 33%;
+	height: 40%;
+	border: 25px solid white;
+	padding:25px;
+	margin:25px;
+	text-align:center;
+	font-family:Arial;
+	font-size:18px;
+	background-color:white;
+	float: right;
+	position:relative;
+	left: -40px;
+	bottom:213px;
+
+}
+
+article{
+	width:35%;
+	height: 40%;
+	border: 25px solid white ;
+	padding:25px;
+	margin:25px;
+	text-align:center;
+	font-family:Arial;
+	font-size: 18px;
+	background-color:#777; 
+	clear:left;
+	position:absolute;
+	bottom:10px;
+}
+
+h1,h2,h3{
+	width: 10%;
+	border:10px solid white;
+	padding:10px;
+	margin:10px;
+	text-align:center;
+	font-family:arial;
+	font-size:18;
+	background-color:white;
+	position:relative;
+}
+
+
+p{
+	width: 35%;
+	border:25px solid white;
+	padding:25px;
+	margin:25px;
+	text-align:center;
+	font-family:Arial;
+	font-size:18px
+	background-color:white;
+	position:absolute;
+
+}
+
+footer {
+	width: 90%;
+	border: 25px solid white;
+	padding: 25px;
+	margin: 25px;
+	content: #ebebeb;
+	text-align: center;
+	font-family: Arial;
+	font-size: 18px;
+	background-color:white;
+	clear:both ;
+}	
+
+
+</style>
+
