@@ -63,13 +63,13 @@ aside{
 	float: right;
 	position:relative;
 	left: -40px;
-	bottom:213px;
+	top:-305px;
 
 }
 
 article{
 	width:35%;
-	height: 40%;
+	height: 20%;
 	border: 25px solid white ;
 	padding:25px;
 	margin:25px;
@@ -79,7 +79,8 @@ article{
 	background-color:#777; 
 	clear:left;
 	position:absolute;
-	bottom:10px;
+	bottom:180px;
+	left: 150px;
 }
 
 h1,h2,h3{
@@ -90,13 +91,17 @@ h1,h2,h3{
 	text-align:center;
 	font-family:arial;
 	font-size:18;
+	font-color: red;
 	background-color:white;
 	position:relative;
+	top: 200px;
+	right:-425px;
 }
 
 
 p{
 	width: 35%;
+	height: 10%;
 	border:25px solid white;
 	padding:25px;
 	margin:25px;
@@ -104,7 +109,9 @@ p{
 	font-family:Arial;
 	font-size:18px
 	background-color:white;
-	position:absolute;
+	position:relative;
+	top:150px;
+	left: 148px;
 
 }
 
@@ -118,7 +125,9 @@ footer {
 	font-family: Arial;
 	font-size: 18px;
 	background-color:white;
-	clear:both ;
+	clear:both;
+	position:relative;
+	bottom:30%;
 }	
 
 
